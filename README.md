@@ -1,5 +1,5 @@
 # Path
-最新バージョン：[Path 1.0](https://github.com/RJ45K/path/releases/tag/v1.0)
+**最新バージョン：[Path 1.0](https://github.com/RJ45K/path/releases/tag/v1.0)**
 ***
 ### About
 Pathは、カレントディレクトリのパスをソースコードとする変な言語です。  
