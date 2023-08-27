@@ -9,13 +9,13 @@ python3の入ったWindowsでしか動きません。
 ソースコードにcdしてpath.exeを実行するだけです。
 ```
 C:\> cd C:\print('Hello, world!')
-C:\print('Hello, world!')> /path/to/file/path.exe
+C:\print('Hello, world!')> C:\path\to\file\path.exe
 
 Hello, world!
 ```
 ***
 ### Usage  
-3種類の引数が用意されています。  
+3種類のコマンドライン引数が用意されています。  
 \-help：ヘルプを表示します。  
 \-wait：タイムアウト処理を無効にします（通常は3秒でタイムアウト）。  
 \-gui ：guiで起動します。
